@@ -3,6 +3,12 @@
 ## 📌 Project Overview
 This project is a professional Excel dashboard built using a Superstore sales dataset. It focuses on cleaning raw sales data, creating helper columns, building PivotTables, and designing a simple interactive dashboard to highlight sales trends and performance.
 
+## Dashboard Preview
+![Dashboard Preview](images/Dashboard.jpg)
+
+## Raw Data Preview
+![Raw Data](images/Raw_data.jpg)
+
 ## 🎯 Objectives
 - Clean and structure raw sales data in Excel
 - Create time-based helper columns for analysis
@@ -83,6 +89,3 @@ This project demonstrates how Excel can be used to transform raw sales data into
 - `Excel folder (includes the main excel file)`
 - `Images (includes preview images)`
 - `README.md`
-
-## Dashboard Preview
-![images](Dashboard.jpg)
