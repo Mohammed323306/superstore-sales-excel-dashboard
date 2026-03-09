@@ -1,7 +1,7 @@
 # 📊 Superstore Sales Excel Dashboard
 
 ## 📌 Project Overview
-This project is a professional Excel dashboard built using a Superstore sales dataset. It focuses on cleaning raw sales data, creating helper columns, building PivotTables, and designing a simple interactive dashboard to highlight sales trends and performance.
+This project is an Excel dashboard built using a Superstore sales dataset. It focuses on cleaning raw sales data, creating helper columns, building PivotTables, and designing a simple interactive dashboard to highlight sales trends and performance.
 
 ## Dashboard Preview
 ![Dashboard Preview](images/Dashboard.jpg)
@@ -52,7 +52,7 @@ The following helper columns were added to support analysis:
 - Quarter
 - Order Year-Month
 - Ship Days
-- Sales Band
+- Sales Group
 
 ## 📊 Analysis Included
 The dashboard analyzes:
@@ -69,10 +69,8 @@ The dashboard analyzes:
 Examples of KPI cards included in the dashboard:
 - Total Sales
 - Total Orders
-- Average Order Value
-- Average Ship Days
-- Top Region
-- Top Category
+- Top State
+- Top Sub-Category
 
 ## ⭐ Key Features
 - Clean and structured Excel workbook
