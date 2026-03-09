@@ -79,7 +79,7 @@ Examples of KPI cards included in the dashboard:
 This project demonstrates how Excel can be used to transform raw sales data into actionable business insights through data cleaning, analysis, and dashboard design.
 
 ## Files Included
-- `Superstore_Sales_Dashboard.xlsx`
-- `Superstore_Sales_Dataset.csv`
-- `dashboard-preview.png` (optional)
+- `Data folder (inlcudes raw data file)`
+- `Excel folder (includes the main excel file)`
+- `Images (includes preview images)`
 - `README.md`
