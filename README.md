@@ -23,7 +23,7 @@ This project is an Excel dashboard built using a Superstore sales dataset. It fo
 - Slicers
 - Formulas and helper columns
 
-## 🗂 Excel File Project Structure
+## 🗂 Excel File Structure
 - **Raw_Data**: original imported CSV data
 - **Clean_Data**: cleaned version of the dataset with helper columns
 - **Pivot_Tables**: analysis tables used to summarize the data
