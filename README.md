@@ -23,25 +23,11 @@ This project is an Excel dashboard built using a Superstore sales dataset. It fo
 - Slicers
 - Formulas and helper columns
 
-## 📂 Dataset
-The raw dataset includes fields such as:
-- Order Date
-- Ship Date
-- Ship Mode
-- Segment
-- Country
-- City
-- State
-- Region
-- Category
-- Sub-Category
-- Product Name
-- Sales
-
-## 🗂 Project Structure
+## 🗂 Excel File Project Structure
 - **Raw_Data**: original imported CSV data
 - **Clean_Data**: cleaned version of the dataset with helper columns
 - **Pivot_Tables**: analysis tables used to summarize the data
+- **Charts**: Seperate charts used in the final dashboard
 - **Dashboard**: final dashboard with KPIs, charts, and slicers
 
 ## 🔧 Helper Columns Created
@@ -63,7 +49,7 @@ The dashboard analyzes:
 - Segment performance
 - Ship mode performance
 - Geographic sales distribution
-- Sales band analysis
+- Sales Group analysis
 
 ## 📈 Key KPIs
 Examples of KPI cards included in the dashboard:
@@ -72,15 +58,15 @@ Examples of KPI cards included in the dashboard:
 - Top State
 - Top Sub-Category
 
-## ⭐ Key Features
-- Clean and structured Excel workbook
-- Interactive slicers for filtering
-- Easy-to-read dashboard layout
-- Strong use of PivotTables and charts
-- Suitable for portfolio and interview presentation
-
-## 💡 Business Value
-This project demonstrates how Excel can be used to transform raw sales data into actionable business insights through data cleaning, analysis, and dashboard design.
+## 🔎 Key Insights & Findings
+- Technology is the highest revenue-generating category, outperforming Furniture and Office Supplies.
+- Phones and Chairs are the top-performing sub-categories, contributing significantly to total sales.
+- The West region generates the highest sales, indicating strong customer demand in that market.
+- The South region records the lowest sales, suggesting potential opportunities for regional growth.
+- The Consumer segment accounts for the majority of sales, making it the primary revenue driver.
+- Corporate and Home Office segments contribute less revenue, indicating potential expansion opportunities in the B2B market.
+- Several office-related products show strong performance, suggesting consistent demand from workplace and home office customers.
+- Standard Class shipping takes the longest delivery time, which may impact the overall customer experience compared to faster shipping options.
 
 ## 📁 Files Included
 - `Data folder (inlcudes raw data file)`
